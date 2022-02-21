@@ -1,0 +1,9 @@
+Mit Splinterlands Buddy kannst du dir jederzeit unterwegs deine Splinterlands Kartensammlung anschauen. Einfach deinen Spieler Namen in der App hinterlegen und schon kann es los gehen.
+
+Doch das ist nicht alles!
+
+Folgende Features sind in Planung:
+- Checke deinen InGame Kontostand
+- Schaue dir die Kartensammlung anderer Spieler an
+- Karten Preise
+- und vieles mehr

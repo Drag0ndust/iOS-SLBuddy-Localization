@@ -1,0 +1,71 @@
+/*Contact me via*/
+"screen.about.contact-me" = "Contact me via";
+
+/*Developer info*/
+"screen.about.developer" = "Hi, my name is Thimo,\nI am the developer of this app. I hope you like it. If you want to send me feedback, feel free to do so through my social media channels.";
+
+/*Card filter: all*/
+"screen.card-collection.filter.all" = "All";
+
+/*Card filter: delegated to me*/
+"screen.card-collection.filter.delegated-to-me" = "Delegated to me";
+
+/*Card filter: owned*/
+"screen.card-collection.filter.owned" = "Owned";
+
+/*My card collection screen title*/
+"screen.card-collection.title" = "My Card Collection";
+
+/*Card printed*/
+"screen.card-detail.printed" = "printed:";
+
+/*Card rarity*/
+"screen.card-detail.rarity" = "rarity:";
+
+/*Card type*/
+"screen.card-detail.type" = "type:";
+
+/*Credits*/
+"screen.credits.credits" = "Credits";
+
+/*Go-Button text*/
+"screen.player-selection.button.text" = "Go!";
+
+/*CTO to enter playername*/
+"screen.player-selection.text.enter-name" = "Please enter your\nSplinterlands player name";
+
+/*Description why the player name is needed*/
+"screen.player-selection.text.enter-name.description" = "To be able to fetch your card collection, we need to know your Splinterlands player name.";
+
+/*My player name placeholder*/
+"screen.player-selection.textfield.player-placeholder" = "My player name";
+
+/*About*/
+"screen.settings.about" = "About";
+
+/*Credits*/
+"screen.settings.about.credits" = "Credits";
+
+/*About the developer*/
+"screen.settings.about.developer" = "About the developer";
+
+/*Credits Splinterlands*/
+"screen.settings.credits.splinterlands" = "All card images are owned and\nopen-sourced by ";
+
+/*Enter your Splinterlands name*/
+"screen.settings.enter-playername" = "Enter your Splinterlands name";
+
+/*Others*/
+"screen.settings.others" = "Others";
+
+/*Terms of Service and Privacy*/
+"screen.settings.others.privacy" = "Terms of Use & Privacy Policy";
+
+/*Player name*/
+"screen.settings.playername" = "Splinterlands Account Name";
+
+/*Third party*/
+"screen.settings.third-party" = "Third party components";
+
+/*Thanks to Jeremie Berduck*/
+"screen.settings.thx" = "I want to thank you for creating this awesome Design!";

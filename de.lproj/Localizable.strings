@@ -1,0 +1,71 @@
+/*Contact me via*/
+"screen.about.contact-me" = "Kontaktiere mich über";
+
+/*Developer info*/
+"screen.about.developer" = "Hi, mein Name ist Thimo,\nich bin der Entwickler dieser App. Ich hoffe sie gefällt dir. Wenn du mir Feedback schicken möchtest, kannst du das gerne über meine Social Media Kanäle machen.";
+
+/*Card filter: all*/
+"screen.card-collection.filter.all" = "Alle";
+
+/*Card filter: delegated to me*/
+"screen.card-collection.filter.delegated-to-me" = "An mich geliehen";
+
+/*Card filter: owned*/
+"screen.card-collection.filter.owned" = "Meine Karten";
+
+/*My card collection screen title*/
+"screen.card-collection.title" = "Meine Kartensammlung";
+
+/*Card printed*/
+"screen.card-detail.printed" = "Gedruckt";
+
+/*Card rarity*/
+"screen.card-detail.rarity" = "Seltenheit";
+
+/*Card type*/
+"screen.card-detail.type" = "Typ:";
+
+/*Credits*/
+"screen.credits.credits" = "Credits";
+
+/*Go-Button text*/
+"screen.player-selection.button.text" = "Los!";
+
+/*CTO to enter playername*/
+"screen.player-selection.text.enter-name" = "Bitte gib deinen\nSplinterlands Spielernamen ein";
+
+/*Description why the player name is needed*/
+"screen.player-selection.text.enter-name.description" = "Um deine Kartensammlung abrufen zu können, benötigen wir deinen Splinterlands Spielernamen.";
+
+/*My player name placeholder*/
+"screen.player-selection.textfield.player-placeholder" = "Mein Spielername";
+
+/*About*/
+"screen.settings.about" = "Über";
+
+/*Credits*/
+"screen.settings.about.credits" = "Credits";
+
+/*About the developer*/
+"screen.settings.about.developer" = "Über den Entwickler";
+
+/*Credits Splinterlands*/
+"screen.settings.credits.splinterlands" = "Alle Kartenbilder sind im Besitz und öffentlich zur Verfügung gestellt von ";
+
+/*Enter your Splinterlands name*/
+"screen.settings.enter-playername" = "Spielername hier eingeben";
+
+/*Others*/
+"screen.settings.others" = "Sonstiges";
+
+/*Terms of Service and Privacy*/
+"screen.settings.others.privacy" = "Nutzungsbedingungen und Datenschutzrichtlinie";
+
+/*Player name*/
+"screen.settings.playername" = "Splinterlands Spielername";
+
+/*Third party*/
+"screen.settings.third-party" = "Drittanbieter";
+
+/*Thanks to Jeremie Berduck*/
+"screen.settings.thx" = "ich möchte mich bei dir für dieses phantastische Design bedanken!";
