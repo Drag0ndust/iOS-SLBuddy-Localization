@@ -1,0 +1,71 @@
+/*Contact me via*/
+"screen.about.contact-me" = "Contactez-moi via";
+
+/*Developer info*/
+"screen.about.developer" = "Salut! Je m'appelle Thimo\n et je suis le developpeur de cette app. J'espere que vous l'aimerez. Si vous avez des idées pour l'améliorer, n'hesitez pas à me contacter à travers mes réseaux sociaux.";
+
+/*Card filter: all*/
+"screen.card-collection.filter.all" = "Toutes";
+
+/*Card filter: delegated to me*/
+"screen.card-collection.filter.delegated-to-me" = "Partagez avec moi";
+
+/*Card filter: owned*/
+"screen.card-collection.filter.owned" = "Possédées";
+
+/*My card collection screen title*/
+"screen.card-collection.title" = "Ma Collection";
+
+/*Card printed*/
+"screen.card-detail.printed" = "imprimées:";
+
+/*Card rarity*/
+"screen.card-detail.rarity" = "rareté:";
+
+/*Card type*/
+"screen.card-detail.type" = "type:";
+
+/*Credits*/
+"screen.credits.credits" = "Credits";
+
+/*Go-Button text*/
+"screen.player-selection.button.text" = "Allez!";
+
+/*CTO to enter playername*/
+"screen.player-selection.text.enter-name" = "Entrez votre nom d'utilisateur \nSplinterlands";
+
+/*Description why the player name is needed*/
+"screen.player-selection.text.enter-name.description" = "Pour pouvoir charger votre collection, nous avons besoin de connaitre votre nom d'utilisateur Splinterlands.";
+
+/*My player name placeholder*/
+"screen.player-selection.textfield.player-placeholder" = "Mon nom de joueur";
+
+/*About*/
+"screen.settings.about" = "À propos";
+
+/*Credits*/
+"screen.settings.about.credits" = "Crédits";
+
+/*About the developer*/
+"screen.settings.about.developer" = "À propos du dévelopeur";
+
+/*Credits Splinterlands*/
+"screen.settings.credits.splinterlands" = "Toutes les images et cartes \nsont la propriété de ";
+
+/*Enter your Splinterlands name*/
+"screen.settings.enter-playername" = "Entrez votre nom d'utilisateur Splinterlands";
+
+/*Others*/
+"screen.settings.others" = "Autres";
+
+/*Terms of Service and Privacy*/
+"screen.settings.others.privacy" = "Conditions d'utilisation & Vie Privée";
+
+/*Player name*/
+"screen.settings.playername" = "Compte Splinterlands";
+
+/*Third party*/
+"screen.settings.third-party" = "Composants tiers";
+
+/*Thanks to Jeremie Berduck 🤗*/
+"screen.settings.thx" = "Je voulais te remercier pour cet excellent Design!";
