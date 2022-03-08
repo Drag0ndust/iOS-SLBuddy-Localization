@@ -55,6 +55,9 @@
 /*Enter your Splinterlands name*/
 "screen.settings.enter-playername" = "Enter your Splinterlands name";
 
+/*Tip Jar section header*/
+"screen.settings.iap.tipjar" = "Tip Jar";
+
 /*Others*/
 "screen.settings.others" = "Others";
 
