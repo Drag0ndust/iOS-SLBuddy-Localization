@@ -16,6 +16,30 @@
 /*My card collection screen title*/
 "screen.card-collection.title" = "Meine Kartensammlung";
 
+/*Card attribute: Abilities*/
+"screen.card-detail.attributes.abilities" = "Fähigkeiten";
+
+/*Card attribute: Armor*/
+"screen.card-detail.attributes.armor" = "Rüstung";
+
+/*Card attribute: Attack*/
+"screen.card-detail.attributes.attack" = "Angriff";
+
+/*Card attribute: Health*/
+"screen.card-detail.attributes.health" = "Gesundheit";
+
+/*Card attribute: Magic*/
+"screen.card-detail.attributes.magic" = "Magie";
+
+/*Card attribute: Mana*/
+"screen.card-detail.attributes.mana" = "Mana";
+
+/*Card attribute: Ranged*/
+"screen.card-detail.attributes.ranged" = "Fernangriff";
+
+/*Card attribute: Speed*/
+"screen.card-detail.attributes.speed" = "Geschwindigkeit";
+
 /*Card printed*/
 "screen.card-detail.printed" = "Gedruckt";
 
