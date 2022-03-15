@@ -16,6 +16,30 @@
 /*My card collection screen title*/
 "screen.card-collection.title" = "My Card Collection";
 
+/*Card attribute: Abilities*/
+"screen.card-detail.attributes.abilities" = "abilities";
+
+/*Card attribute: Armor*/
+"screen.card-detail.attributes.armor" = "armor";
+
+/*Card attribute: Attack*/
+"screen.card-detail.attributes.attack" = "attack";
+
+/*Card attribute: Health*/
+"screen.card-detail.attributes.health" = "health";
+
+/*Card attribute: Magic*/
+"screen.card-detail.attributes.magic" = "magic";
+
+/*Card attribute: Mana*/
+"screen.card-detail.attributes.mana" = "mana";
+
+/*Card attribute: Ranged*/
+"screen.card-detail.attributes.ranged" = "ranged";
+
+/*Card attribute: Speed*/
+"screen.card-detail.attributes.speed" = "speed";
+
 /*Card printed*/
 "screen.card-detail.printed" = "printed:";
 
@@ -54,6 +78,9 @@
 
 /*Enter your Splinterlands name*/
 "screen.settings.enter-playername" = "Enter your Splinterlands name";
+
+/*Tip Jar section header*/
+"screen.settings.iap.tipjar" = "Tip Jar";
 
 /*Others*/
 "screen.settings.others" = "Others";

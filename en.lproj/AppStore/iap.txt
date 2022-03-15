@@ -1,0 +1,8 @@
+Small tip
+A small donation for the developer
+
+Medium tip
+A medium donation for the developer
+
+Large tip
+A large donation for the developer
