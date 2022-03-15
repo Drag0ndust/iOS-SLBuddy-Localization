@@ -6,4 +6,4 @@ Dans une prochaine version vous pourrez:
 - Visualiser votre compte de jeux
 - Visualiser les collections d'autres joueurs
 - Voir le prix des cartes
-- et bien plus encore...
+- et bien plus encore

@@ -2,19 +2,43 @@
 "screen.about.contact-me" = "Contactez-moi via";
 
 /*Developer info*/
-"screen.about.developer" = "Salut! Je m'appelle Thimo\n et je suis le developpeur de cette app. J'espere que vous l'aimerez. Si vous avez des idées pour l'améliorer, n'hesitez pas à me contacter à travers mes réseaux sociaux.";
+"screen.about.developer" = "Salut! Je m'appelle Thimo\n et je suis le développeur de cette app. J'espere que vous l'aimerez. Si vous avez des idées pour l'améliorer, n'hesitez pas à me contacter à travers mes réseaux sociaux.";
 
 /*Card filter: all*/
 "screen.card-collection.filter.all" = "Toutes";
 
 /*Card filter: delegated to me*/
-"screen.card-collection.filter.delegated-to-me" = "Partagez avec moi";
+"screen.card-collection.filter.delegated-to-me" = "Me Déléguer";
 
 /*Card filter: owned*/
 "screen.card-collection.filter.owned" = "Possédées";
 
 /*My card collection screen title*/
 "screen.card-collection.title" = "Ma Collection";
+
+/*Card attribute: Abilities*/
+"screen.card-detail.attributes.abilities" = "abilitées";
+
+/*Card attribute: Armor*/
+"screen.card-detail.attributes.armor" = "armure";
+
+/*Card attribute: Attack*/
+"screen.card-detail.attributes.attack" = "attaque";
+
+/*Card attribute: Health*/
+"screen.card-detail.attributes.health" = "santé";
+
+/*Card attribute: Magic*/
+"screen.card-detail.attributes.magic" = "magie";
+
+/*Card attribute: Mana*/
+"screen.card-detail.attributes.mana" = "mana";
+
+/*Card attribute: Ranged*/
+"screen.card-detail.attributes.ranged" = "classé";
+
+/*Card attribute: Speed*/
+"screen.card-detail.attributes.speed" = "vitesse";
 
 /*Card printed*/
 "screen.card-detail.printed" = "imprimées:";
@@ -26,7 +50,7 @@
 "screen.card-detail.type" = "type:";
 
 /*Credits*/
-"screen.credits.credits" = "Credits";
+"screen.credits.credits" = "Crédits";
 
 /*Go-Button text*/
 "screen.player-selection.button.text" = "Allez!";
@@ -47,13 +71,16 @@
 "screen.settings.about.credits" = "Crédits";
 
 /*About the developer*/
-"screen.settings.about.developer" = "À propos du dévelopeur";
+"screen.settings.about.developer" = "À propos du développeur";
 
 /*Credits Splinterlands*/
 "screen.settings.credits.splinterlands" = "Toutes les images et cartes \nsont la propriété de ";
 
 /*Enter your Splinterlands name*/
 "screen.settings.enter-playername" = "Entrez votre nom d'utilisateur Splinterlands";
+
+/*Tip Jar section header*/
+"screen.settings.iap.tipjar" = "Laisser un Pourboire";
 
 /*Others*/
 "screen.settings.others" = "Autres";
@@ -65,7 +92,7 @@
 "screen.settings.playername" = "Compte Splinterlands";
 
 /*Third party*/
-"screen.settings.third-party" = "Composants tiers";
+"screen.settings.third-party" = "Composants provenant de tiers";
 
 /*Thanks to Jeremie Berduck 🤗*/
 "screen.settings.thx" = "Je voulais te remercier pour cet excellent Design!";

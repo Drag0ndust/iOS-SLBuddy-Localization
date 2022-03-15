@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:de.lproj">
+   </FileRef>
+   <FileRef
+      location = "group:en.lproj">
+   </FileRef>
+   <FileRef
+      location = "group:fr.lproj">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+</Workspace>
